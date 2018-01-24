@@ -1,0 +1,125 @@
+---
+title: "Cv_Thomas"
+author: "Thomas"
+date: "24/1/2018"
+
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: template.tex
+    
+header-includes: 
+  \usepackage{xeCJK}    
+    
+first: Thomas
+last: Van Hoey
+email1: d04142001@ntu.edu.tw
+
+chinesename: "司馬智"
+
+jobtitle: "Ph.D. student of Linguistics"
+Engaddress: "Taipei, 100 Da'an district, Siyuan st. 16-3"
+Chaddress: "台北市 · 100 大安區 · 思源街16號之3 · 司馬智"
+website: "www.thomasvanhoey.com"
+orcid: 0000-0002-5226-9752
+languages: "**active:** Dutch, English, Chinese, French **passive:** Japanese, German **notions:** Bunun" 
+programming: "R"
+github: simazhi
+interests: "ideophones, Cognitive Linguistics, historical linguistics, Chinese, Cognitive Semantics"
+
+edu:
+  - {degree: PhD , where: National Taiwan University , when: 2015- , description_1: "student in Linguistics" , beurs: "Research Fellowship for Outstanding International Doctoral Students" }
+  - {degree: MA , where: University of Leuven , when: 2014-2015 , description_1: "in Linguistics, magana cum laude", thesis: "Thesis: *A typological analysis of mimetic words in Middle Chinese (6th-12th cent.)*"}
+  - {degree: MA , where: University of Leuven , when: 2013-2014 , description_1: "in Sinology, magna cum laude", thesis: "Thesis: *The Guwen yundong 古文运动 (Classical Prose Movement) during Tang and Song: Ideological as well as Stylistic Innovation?*"}
+  - {degree: Long term Mandarin Chinese studies , where: Suzhou University , when: 2012-2013 , beurs: "scholarship from the Hanban"}
+  - {degree: BA , where: University of Leuven, when: 2009-2012 , description_1: "in Sinology, cum laude"}
+  
+
+
+work:
+  - {year: 2017-present, where: Formosan Spoken Corpus NTU , what: "Research Assistant: Fieldwork"}
+  - {year: 2016-present, where: Lu Chiarung's Lab , what: Research and Teaching Assistant}
+  - {year: 2014-2016, where: babel101.com, what: "Dutch translator of Chinese short stories"}
+  - {year: 2014-2016, where: Judicial Court of Leuven, what: "Dutch-Chinese translator and interpreter"}
+  - {year: 2014-2015, where: East-Asian Library (KU Leuven), what: "Assistant"}
+  - {year: 2012-2013, where: Expat Insturances, what: "Freelance translator Dutch-Chinese"}
+  
+theses:
+  - {degree: MA Linguistics , 
+  thesis: A typological analysis of mimetic words in Middle Chinese (6th-12th cent.) , 
+  advisor: Jean-Christophe Verstraete , 
+  mark: 17.4/20 , 
+  summary: "Based on a corpus of Midde Chinese poetry, I identified a set of mimetic words in Middle Chinese. I worked on an analysis of their morphological, phonological, syntactical and semantical properties, against a typological background."}
+  - {degree: MA Sinology ,
+  thesis: "The Guwen yundong 古文运动 (Classical Prose Movement) during Tang and Song: Ideological as well as Stylistic Innovation?" ,
+  advisor: Willy Vande Walle , 
+  mark: 18.6/20 , 
+  summary: "Using quantitative analyses (dendrograms, PCA, cluster analysis), I verified which authors were stylistically part of the Classical Prose Movement. This movement promoted an older style (used some four centuries or more earlier), condemning the formal style of the contemporary popular parallel prose. Unlike theoretical research hitherto suggested, my analysis shows that only a few authors formed the core of the movement. The presence of these authors fits nicely into the dominant framework of the emergence of Neo-Confucianism in the Song dynasty (10th-13th cent.)."}
+
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+# Publications
+**Van Hoey, Thomas** & Chiarung Lu. 2018. Ideophones in Chinese classics: their development and distribution from a variationist perspective. in *Proceedings of CLDC 8*. (*Cognitive Linguistics Research*). FORTHCOMING.
+
+# Conferences
+**Van Hoey, Thomas**. 2018. The blending of bending: worldbuilding in Avatar: The Last Airbender and The Legend of Korra. Hong Kong: Hong Kong Polytechnic University. \fn{poster}
+
+
+**Van Hoey, Thomas**. 2017. Chinese ideophones in historical corpora: a case study of mental space markers. Workshop on Mimetics II: New approaches to old questions. Nagoya: Nanzan University. 11 November 2017. \fn{invited}
+
+**Van Hoey, Thomas**. 2017. The thunder rolls: iconicity and ideophones in Chinese meteorlogical expressions. CLS-MPI Iconicity Focus Group Workshop: Types of Iconicity in Language Use, Development and Processing. Nijmegen: Max Planck Institute for Psycholinguistics. 6-7 July 2017. \fn{poster}
+
+**Van Hoey, Thomas**. 2016. Ideophones in Premodern Chinese: Revisiting Dingemanse’s implicational hierarchy (poster). Mimetics in Japanese and other languages in the world (日本語と世界諸言語のオノマトペ). Tachikawa: NINJAL. 17-18 December 2016. \fn{poster}
+
+**Van Hoey, Thomas**. 2016. Ideophones in Old Chinese: The case of the Shijing 詩經. ISACG [International Symposium on Ancient Chinese Grammar] 9. Berlin: Humboldt University. 29-30 July 2016. \fn{oral}
+
+**Van Hoey, Thomas**. 2016. A diachronic analysis of ideophones in Chinese. Summer school in Chinese Digital Humanities. Leiden: Leiden University. 6-9 July 2016. \fn{oral}
+
+**Van Hoey, Thomas** & Chiarung Lu. 2016. The distribution of ideophones in Tang poems: A variationist perspective. CLDC [Conference on Language, Discourse, and Cognition] 8. Taipei: National Taiwan University. 
+13-14 May 2016. \fn{oral}
+
+
+
+# Additional training and education
+- Summer school in Chinese Digital Humanities. Leiden: Leiden University. 6-9 July 2016.
+- Summer school of Translating Chinese. Taipei: National Taiwan University. July 2014.
+
+
+# Student representation
+**Eoos** (faculty association for students of Area studies)
+
+- Webmaster \fn{2014-2015}
+- President & Webmaster \fn{2013-2014}
+- Vice president Sinology \fn{2011-2012}
+- Educational representative
+- Chairman Student Council Faculty of Arts (StRaaL)
+
+> Membership of the following bodies: Permanent Educational Commission (POC) of Area Studies, Curriculum Commission (CC) of Linguistics, CC of Sinology, Didactical Commission, Faculty board of the Faculty of Arts, Faculty council of the Faculty of Arts, General student council (LOKO and STURA KU LEUVEN), Student council of the Faculty of Arts (StRaaL)
+
+\pagebreak
+
+# Technological knowledge
+- Microsoft office (word, excel, powerpoint, access)
+- R (statistical research)
+- Experimental design and corpus research
+- Regression analysis, cluster analysis, principal components analysis, dendrograms
+- Knowledge of general linguistic theories, (lexical-semantial) Cognitive Linguistics, descriptive and typological linguistics, computational linguistics
+
+# Relevant courses
+>Language typology and universalia (16/20), Computational linguistics (14/20), Modern Mandarin Chinese and Classical Chinese (BA and MA courses), Lexicology and morphology (16/20), Pragmatics and discourse analysis (13/20), Language documentation and description (16/20), Language experiment (18/20); Historical linguistics, Comparative linguistics (18/20), Usage-based linguistics.
+
+# Other awards and certificates
+- 1st place at Hackathon Taiwanese Linguistics Olympiad \fn{2017}
+- HSK 6 (Chinese language test, level 6) \fn{2013}
+- HSK 5 (Chinese language test, level 5) \fn{2013}
+- 3rd place in a Chinese calligraphy competiton with hard pen for Belgian university students \fn{2011}
+- HSK 3 (Chinese language test, level 3) \fn{2010}
+- Place in the final round of a French language competition at HUB (Brussels) \fn{2009}
+-	Place in the final round of a French language competition at Olyfran \fn{2007}
