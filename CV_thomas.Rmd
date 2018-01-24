@@ -29,7 +29,7 @@ interests: "ideophones, Cognitive Linguistics, historical linguistics, Chinese, 
 
 edu:
   - {degree: PhD , where: National Taiwan University , when: 2015- , description_1: "student in Linguistics" , beurs: "Research Fellowship for Outstanding International Doctoral Students" }
-  - {degree: MA , where: University of Leuven , when: 2014-2015 , description_1: "in Linguistics, magana cum laude", thesis: "Thesis: *A typological analysis of mimetic words in Middle Chinese (6th-12th cent.)*"}
+  - {degree: MA , where: University of Leuven , when: 2014-2015 , description_1: "in Linguistics, magna cum laude", thesis: "Thesis: *A typological analysis of mimetic words in Middle Chinese (6th-12th cent.)*"}
   - {degree: MA , where: University of Leuven , when: 2013-2014 , description_1: "in Sinology, magna cum laude", thesis: "Thesis: *The Guwen yundong 古文运动 (Classical Prose Movement) during Tang and Song: Ideological as well as Stylistic Innovation?*"}
   - {degree: Long term Mandarin Chinese studies , where: Suzhou University , when: 2012-2013 , beurs: "scholarship from the Hanban"}
   - {degree: BA , where: University of Leuven, when: 2009-2012 , description_1: "in Sinology, cum laude"}
