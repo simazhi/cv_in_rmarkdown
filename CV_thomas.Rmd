@@ -9,7 +9,8 @@ output:
     template: template.tex
     
 header-includes: 
-  \usepackage{xeCJK}    
+  \usepackage{xeCJK} 
+  \setCJKmainfont{PingFang TC}   
     
 first: Thomas
 last: Van Hoey
