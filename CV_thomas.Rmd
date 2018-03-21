@@ -5,7 +5,7 @@ date: "14/3/2018"
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: svm-latex-cv.tex
+    template: template_thomas.tex
 CJKmainfont: Noto Sans CJK TC
 mainfont: Noto Serif
 
@@ -97,6 +97,10 @@ Summer school of Translating Chinese. Taipei: National Taiwan University. \hfill
 
 **Van Hoey, Thomas** & Chiarung Lu. 2016. The distribution of ideophones in Tang poems: A variationist perspective. CLDC [Conference on Language, Discourse, and Cognition] 8. Taipei: National Taiwan University.13-14 May 2016. Oral.
 
+## Department talks
+
+**Van Hoey, Thomas**. 2017. A semantic map for ideophones: From an implicational hierarchy to the spinning top model. Brown Bag Lectures. Taipei: National Taiwan University. 26 April 2017. Oral.
+
 # Employment
 
 Research Assistant for the Formosan Spoken Corpus, National Taiwan University \hfill 2017-present  
@@ -161,11 +165,16 @@ and *Conference on Language, Discourse, and Cognition*
 - Knowledge of general linguistic theories, (lexical-semantial) Cognitive Linguistics, descriptive and typological linguistics, computational linguistics
 
 # Relevant courses
-* National Taiwan University: Syntax, Phonology, Lexical Semantics, R Language and Data Science, Linguistic Fieldwork, Logical Analysis of Language, Language and Culture, Corpus Linguistics etc.
+* National Taiwan University: 
 
-* University of Leuven: Language Typology and Universalia, Computational Linguistics, Modern Mandarin Chinese and Classical Chinese (BA and MA courses), Lexicology and Morphology, Pragmatics and discourse analysis, Language Documentation and Description, Language Experiment, Historical Linguistics, Comparative Linguistics, Usage-based Linguistics etc.
+> Syntax, Phonology, Lexical Semantics, R Language and Data Science, Linguistic Fieldwork, Logical Analysis of Language, Language and Culture, Corpus Linguistics etc.
+
+* University of Leuven: 
+
+>Language Typology and Universalia, Computational Linguistics, Modern Mandarin Chinese and Classical Chinese (BA and MA courses), Lexicology and Morphology, Pragmatics and discourse analysis, Language Documentation and Description, Language Experiment, Historical Linguistics, Comparative Linguistics, Usage-based Linguistics etc.
 
 # Other awards and certificates
+- Intermediate level of the Isbukun Bunun language test \hfill 2018
 - 1st place at Hackathon Taiwanese Linguistics Olympiad \hfill 2017
 - HSK 6 (Chinese language test, level 6) \hfill 2013
 - HSK 5 (Chinese language test, level 5) \hfill 2013
