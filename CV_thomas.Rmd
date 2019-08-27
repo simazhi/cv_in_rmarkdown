@@ -142,15 +142,20 @@ MA thesis Sinology (grade: 18.6/20)\hfill 2013-2014
 
 **Van Hoey, Thomas**. 2017. Chinese ideophones in historical corpora: A case study of mental space markers. Workshop on Mimetics II: New approaches to old questions. Nagoya: Nanzan University. 11 November 2017. Funding: MOST-106-2922-I-002-596. https://www.nanzan-u.ac.jp/Menu/news/2017/pdf/171016_workshop.pdf
 
+**Van Hoey, Thomas**. 2019. Defining Chinese ideophones: A family of constructions. International Workshop on Mimetics (Ideophones, Expressives) III: Crucibles of Mimetics. Nagoya: Nanzan University. 3 August 2019.  http://www.ic.nanzan-u.ac.jp/LINGUISTICS/workshop/pdf/poster.2019.0803.pdf 
+
+## Theme sessions 
+<!-- ## Conference panels -->
+
+Dingemanse, Mark, Arie Verhagen, Jonas Nölle & **Thomas Van Hoey**. 2019. Integrating iconicity: Recent work and future directions. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/. 
+
 ## Conference presentations (oral)
 
-**Van Hoey, Thomas** & Chiarung Lu. 2019. Reduplication as a trigger of intersubjectivity: Mandarin Chinese ideophones and reduplication in the CHILDES corpora. Oral presentation presented at the ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/. 
+**Van Hoey, Thomas** & Chiarung Lu. 2019. Reduplication as a trigger of intersubjectivity: Mandarin Chinese ideophones and reduplication in the CHILDES corpora. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/. 
 
-**Van Hoey, Thomas**. 2019. Radiant suns, burning fires and brilliant flowers: The onomasiology and radical support of Chinese literary LIGHT ideophones. Oral presentation presented at the ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/.
+**Van Hoey, Thomas**. 2019. Radiant suns, burning fires and brilliant flowers: The onomasiology and radical support of Chinese literary LIGHT ideophones. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/.
 
-
-**Van Hoey, Thomas** & Arthur Lewis Thompson. 2019. Reduplication as a trigger of intersubjectivity: Mandarin Chinese ideophones and reduplication in the CHILDES corpora. Oral presentation presented at the ILL 12 [International Symposium on Iconicity in Language and Literature], Lund: Lund University. 3-5 May 2019. https://konferens.ht.lu.se/en/ill-12/.
-
+**Van Hoey, Thomas** & Arthur Lewis Thompson. 2019. Bridging phonology, meaning, and written form across time: Introducing a database of Chinese literary ideophones — CHIDEOD. ILL 12 [International Symposium on Iconicity in Language and Literature], Lund: Lund University. 3-5 May 2019. Funding: MOST-108-2922-I-002-198. https://konferens.ht.lu.se/en/ill-12/. 
 
 **Van Hoey, Thomas** & Chiarung Lu. 2018. All that glitters is not gold: Prototypical semantic change in shiny Literary Chinese ideophones. ICPEAL 17 [International Conference on the Processing of East Asian Languages]-CLDC 9 [Conference on Language, Discourse, and Cognition]. Taipei: National Taiwan University. 19-21 October 2018.  https://homepage.ntu.edu.tw/~gilntu/icpeal2018cldc/
 
@@ -160,7 +165,6 @@ MA thesis Sinology (grade: 18.6/20)\hfill 2013-2014
 
 **Van Hoey, Thomas** & Chiarung Lu. 2016. The distribution of ideophones in Tang poems: A variationist perspective. CLDC [Conference on Language, Discourse, and Cognition] 8. Taipei: National Taiwan University.13-14 May 2016. http://homepage.ntu.edu.tw/~gilntu/cldc/2016/
 
-<!-- ## Conference panels -->
 
 ## Conference presentations (posters)
 
@@ -174,9 +178,18 @@ MA thesis Sinology (grade: 18.6/20)\hfill 2013-2014
 
 **Van Hoey, Thomas**. 2017. A semantic map for ideophones: From an implicational hierarchy to the spinning top model. Brown Bag Lectures. Taipei: National Taiwan University. 26 April 2017.
 
+## Broader audiences
+
+**Van Hoey, Thomas** & CJ Young. 2019. Language, culture, and cognition. Summer training camp for Taiwnese and Hong Kong high school representatives in the International Linguistics Olympiad. Taipei: Academia Sinica. 17 July 2019.
+
+**Van Hoey, Thomas**. 2018. Austronesian languages. Summer training camp for Taiwnese high school representatives in the International Linguistics Olympiad. Chiayi: National Chungcheng University. 19 July 2018.
+
+
 <!-- # Funding -->
 
-<!-- # Teaching -->
+# Teaching
+
+English conversation (BA2) \hfill Tatung University 大同大學 \hfill 2019-fall
 
 <!-- # Supervision -->
 
@@ -199,7 +212,7 @@ Research and Teaching Assistant, National Taiwan University \hfill 2016-2019
 *Assisting in courses and research, for Dr. Chiarung Lu*
 
 Teaching Assistant, English summer camp at Wesley Girls' High School (Taipei), \hfill 2018  
-organized by the Language Training & Testing Center at National Taiwan University 
+organized by the Language Training & Testing Center at National Taiwan University
 
 Research Assistant for the Formosan Spoken Corpus, National Taiwan University \hfill 2017-2018  
 *Transcribing Isbukun Bunun, project of Dr. Li-May Sung*
@@ -222,6 +235,10 @@ Freelance translator Dutch-Chinese, Expat Insurances \hfill 2012-2013
 
 # Service 
 <!-- Administration, leadership, management -->
+
+## Reviewing
+
+* Mapping China Journal (https://mappingchina.org)
 
 ## Conference organisation
 
