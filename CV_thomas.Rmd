@@ -45,24 +45,24 @@ historical linguistics; Chinese (in all its variants)
 
 # Education:
 
-**PhD Linguistics**, National Taiwan University: Graduate Institute of Linguistics \hfill 2015-2020 
+**PhD Linguistics** *(A+)*, National Taiwan University: Graduate Institute of Linguistics \hfill 2015-2020 \newline
 Dissertation: *Prototypicality and salience of Chinese ideophones: * \hfill Taipei, Taiwan \newline
-\mbox{} \qquad{}\qquad{} *A cognitive and corpus linguistics approach*  
+\mbox{} \qquad{}\qquad{}\qquad{} *A cognitive and corpus linguistics approach*  
 Advisor: [Lu Chiarung 呂佳蓉, Ph.D](chiarung.blog.ntu.edu.tw) 
 
-**MA Linguistics** *magna cum laude*, University of Leuven \hfill 2014-2015  
+**MA Linguistics** *(magna cum laude)*, University of Leuven \hfill 2014-2015  
 Thesis: *A typological analysis of mimetic words in Middle Chinese (6th-12th cent.)*  \hfill Leuven, Belgium
 Advisor: [Jean-Christophe Verstraete, Ph.D](https://perswww.kuleuven.be/~u0005010/jcv/) 
 
-**MA Sinology** *magna cum laude*, University of Leuven \hfill 2013-2014  
+**MA Sinology** *(magna cum laude)*, University of Leuven \hfill 2013-2014  
 Thesis: *The Guwen yundong 古文运动 (Classical Prose Movement)* \hfill Leuven, Belgium \newline
-\mbox{} \qquad{}\qquad{} *during Tang and Song: Ideological as well as Stylistic Innovation?*  
+\mbox{} \qquad{}\qquad{}\qquad{} *during Tang and Song: Ideological as well as Stylistic Innovation?*  
 Advisor: [Willy Vande Walle, Ph.D](https://www.kuleuven.be/wieiswie/en/person/00009507)
 
 **Year-long Mandarin Chinese exchange study**, Suzhou University 苏州大学 \hfill 2012-2013 \newline
 \mbox{} \hfill Suzhou, China
 
-**BA Sinology** *cum laude*, University of Leuven \hfill 2009-2012 \newline
+**BA Sinology** *(cum laude)*, University of Leuven \hfill 2009-2012 \newline
 \mbox{} \hfill Leuven, Belgium
 
 # Additional training and education
@@ -99,20 +99,24 @@ Summer school:  Translating Chinese (Summer +10). Taipei: National Taiwan Univer
 
 ## Resources
 
-**Van Hoey, Thomas** & Arthur Lewis Thompson. 2019. The Chinese ideophone database (CHIDEOD). \newline doi: 10.17605/OSF.IO/KPWGF
+**Van Hoey, Thomas** & Arthur Lewis Thompson. 2019. The Chinese ideophone database (CHIDEOD). \newline 
+CHIDEOD is accessible in .xlsx, .csv, .rds formats (doi: [10.17605/OSF.IO/KPWGF](https://osf.io/kpwgf/)), as well as through a [Shiny app interface](https://simazhi.shinyapps.io/chideod_appversion/).
+
 
 ## Theses
 
-PhD thesis Linguistics \hfill 2020 
-*Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach* 中文擬聲（態）詞的原型與顯著特徵：以認知與語料庫語言學方法探討
+PhD thesis Linguistics (grade: A+) \hfill 2020 \newline
+*Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach* \newline
+漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討
 
-MA thesis Linguistics (grade: 17.4/20)\hfill 2014-2015   
+MA thesis Linguistics (grade: 17.4/20)\hfill 2014-2015 \newline
 *Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus*
 
 <!-- >Based on a corpus of Midde Chinese poetry, I identified a set of mimetic words in Middle Chinese. I worked on an analysis of their morphological, phonological, syntactic and semantic properties, against a typological background. -->
 
-MA thesis Sinology (grade: 18.6/20)\hfill 2013-2014  
-*The *Guwen yundong 古文运动 *(Classical Prose Movement) during Tang and Song: Ideological as well as Stylistic Innovation?*
+MA thesis Sinology (grade: 18.6/20)\hfill 2013-2014 \newline
+*The *Guwen yundong 古文运动 *(Classical Prose Movement) during Tang and Song:* \newline
+*Ideological as well as Stylistic Innovation?*
 
 <!-- >Using quantitative analyses (dendrograms, PCA, cluster analysis), I verified which authors were stylistically part of the Classical Prose Movement. This movement promoted an older style (used some four centuries or more earlier), condemning the formal style of the contemporary popular parallel prose. Unlike theoretical research hitherto suggested, my analysis shows that only a few authors formed the core of the movement. The presence of these authors fits nicely into the dominant framework of the emergence of Neo-Confucianism in the Song dynasty (10th-13th cent.). -->
 
@@ -275,6 +279,8 @@ summer schools?
 # Technological knowledge
 - Microsoft office (Word, Excel, PowerPoint, Access) and open source variants
 - \LaTeX (typesetting)
+- Database construction and management
+- Application deployment with Shiny
 - R, Python (statistical research)
 - Experimental design and corpus research
 - Regression analysis, cluster analysis, principal components analysis, dendrograms
