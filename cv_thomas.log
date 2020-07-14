@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.7.14)  14 JUL 2020 14:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.7.14)  14 JUL 2020 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -840,14 +840,26 @@ LaTeX Font Info:    Font shape `TU/NotoSerif(0)/m/n' will be
 (Font)              scaled to size 6.43286pt on input line 280.
 LaTeX Font Info:    Font shape `TU/NotoSansCJKTC(0)/m/n' will be
 (Font)              scaled to size 6.34998pt on input line 280.
-[2] [3] [4] [5] 
+[2]
+Underfull \hbox (badness 2285) in paragraph at lines 313--319
+\TU/NotoSerif(0)/m/n/12 darin Chinese ideophones and reduplication in the CHILD
+ES corpora. ICLC 15 [International
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 313--319
+\TU/NotoSerif(0)/m/n/12 Cognitive Linguistics Conference], Nishinomiya: Kwansei
+ Gakuin University. 6-11 August 2019.
+ []
+
+[3] [4] [5] [6] 
 AED: lastpage setting LastPage
-[6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 592.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 592.
+[7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 597.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 597.
 (./cv_thomas.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 592.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 592.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 597.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 597.
 Package rerunfilecheck Info: File `cv_thomas.out' has not changed.
 (rerunfilecheck)             Checksum: 04E40FEFF91D946432C68E43C829C2DD;1898.
 
@@ -857,10 +869,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  17137 strings out of 481244
  327325 string characters out of 5922896
- 650310 words of memory out of 5000000
+ 646310 words of memory out of 5000000
  34379 multiletter control sequences out of 15000+600000
  545310 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 53i,11n,122p,1198b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,12n,122p,1198b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv_thomas.pdf (6 pages).
+Output written on cv_thomas.pdf (7 pages).

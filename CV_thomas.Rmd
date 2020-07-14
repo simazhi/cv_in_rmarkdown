@@ -139,9 +139,10 @@ MA thesis Sinology (grade: 18.6/20)\hfill 2013-2014 \newline
 
 ## Invited talks
 
-**Van Hoey, Thomas**. 2019. Defining Chinese ideophones: A family of constructions. International Workshop on Mimetics (Ideophones, Expressives) III: Crucibles of Mimetics. Nagoya: Nanzan University. 3 August 2019.  http://www.ic.nanzan-u.ac.jp/LINGUISTICS/workshop/pdf/poster.2019.0803.pdf 
+**Van Hoey, Thomas**. 2019. Defining Chinese ideophones: A family of constructions. International Workshop on Mimetics (Ideophones, Expressives) III: Crucibles of Mimetics. Nagoya: Nanzan University. 3 August 2019. [doi:10.6084/m9.figshare.12651896](https://doi.org/10.6084/m9.figshare.12651896)
 
-**Van Hoey, Thomas**. 2017. Chinese ideophones in historical corpora: A case study of mental space markers. Workshop on Mimetics II: New approaches to old questions. Nagoya: Nanzan University. 11 November 2017. Funding: MOST-106-2922-I-002-596. https://www.nanzan-u.ac.jp/Menu/news/2017/pdf/171016_workshop.pdf
+**Van Hoey, Thomas**. 2017. Chinese ideophones in historical corpora: A case study of mental space markers. Workshop on Mimetics II: New approaches to old questions. Nagoya: Nanzan University. 11 November 2017. Funding: MOST-106-2922-I-002-596. [doi:10.6084/m9.figshare.5830341](https://doi.org/10.6084/m9.figshare.5830341)
+
 
 
 ## Theme sessions 
@@ -151,32 +152,32 @@ Dingemanse, Mark, Arie Verhagen, Jonas Nölle & **Thomas Van Hoey**. 2019. Integ
 
 ## Conference presentations (oral)
 
-**Van Hoey, Thomas** & Iju Hsu. 2020. Chinese ideophones in advertisements and social media: Motivated by multimodal metaphors. RaAM 13 [Association for Researching and Applying Metaphor] *Virtual*. Hamar: Inland Norway University. 18-21 June 2020. https://eng.inn.no/conferences/raam-2020.
+**Van Hoey, Thomas** & Iju Hsu. 2020. Chinese ideophones in advertisements and social media: Motivated by multimodal metaphors. RaAM 13 [Association for Researching and Applying Metaphor] *Virtual*. Hamar: Inland Norway University. 18-21 June 2020. [doi:10.6084/m9.figshare.12651890](https://doi.org/10.6084/m9.figshare.12651890)
 
 **Van Hoey, Thomas** & Chiarung Lu. 2020. From ideational to interpersonal: A behavioral profile analysis of *qǐlái* 起來 in Modern Mandarin. CLDC 10 [Conference on Language, Discourse, and Cognition]. Taipei: National Taiwan University. 1-2 May 2020. https://sites.google.com/view/cldc10 *(cancelled due to corona virus)*
 
-**Van Hoey, Thomas** & Chiarung Lu. 2019. Reduplication as a trigger of intersubjectivity: Mandarin Chinese ideophones and reduplication in the CHILDES corpora. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/. 
+**Van Hoey, Thomas** & Chiarung Lu. 2019. Reduplication as a trigger of intersubjectivity: Mandarin Chinese ideophones and reduplication in the CHILDES corpora. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. [doi:10.6084/m9.figshare.12651902](https://doi.org/10.6084/m9.figshare.12651902) 
 
-**Van Hoey, Thomas**. 2019. Radiant suns, burning fires and brilliant flowers: The onomasiology and radical support of Chinese literary LIGHT ideophones. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. Funding: NTU, College of Liberal Arts. https://iclc2019.site/. 
+**Van Hoey, Thomas**. 2019. Radiant suns, burning fires and brilliant flowers: The onomasiology and radical support of Chinese literary LIGHT ideophones. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. Funding: NTU, College of Liberal Arts. [doi:10.6084/m9.figshare.12652445](https://doi.org/10.6084/m9.figshare.12652445) 
 
-**Van Hoey, Thomas** & Arthur Lewis Thompson. 2019. Bridging phonology, meaning, and written form across time: Introducing a database of Chinese literary ideophones — CHIDEOD. ILL 12 [International Symposium on Iconicity in Language and Literature], Lund: Lund University. 3-5 May 2019. Funding: MOST-108-2922-I-002-198. https://konferens.ht.lu.se/en/ill-12/. 
+**Van Hoey, Thomas** & Arthur Lewis Thompson. 2019. Bridging phonology, meaning, and written form across time: Introducing a database of Chinese literary ideophones — CHIDEOD. ILL 12 [International Symposium on Iconicity in Language and Literature], Lund: Lund University. 3-5 May 2019. Funding: MOST-108-2922-I-002-198. [doi:10.6084/m9.figshare.12651899](https://doi.org/10.6084/m9.figshare.12651899)
 
-**Van Hoey, Thomas** & Chiarung Lu. 2018. All that glitters is not gold: Prototypical semantic change in shiny Literary Chinese ideophones. ICPEAL 17 [International Conference on the Processing of East Asian Languages]-CLDC 9 [Conference on Language, Discourse, and Cognition]. Taipei: National Taiwan University. 19-21 October 2018.  https://homepage.ntu.edu.tw/~gilntu/icpeal2018cldc/
+**Van Hoey, Thomas** & Chiarung Lu. 2018. All that glitters is not gold: Prototypical semantic change in shiny Literary Chinese ideophones. ICPEAL 17 [International Conference on the Processing of East Asian Languages]-CLDC 9 [Conference on Language, Discourse, and Cognition]. Taipei: National Taiwan University. 19-21 October 2018.  [doi:10.6084/m9.figshare.12652544](https://doi.org/10.6084/m9.figshare.12652544)
 
-**Van Hoey, Thomas**. 2016. Ideophones in Old Chinese: The case of the *Shijing* 詩經. ISACG [International Symposium on Ancient Chinese Grammar] 9. Berlin: Humboldt University. 29-30 July 2016.
+**Van Hoey, Thomas**. 2016. Ideophones in Old Chinese: The case of the *Shijing* 詩經. ISACG [International Symposium on Ancient Chinese Grammar] 9. Berlin: Humboldt University. 29-30 July 2016. [doi:10.6084/m9.figshare.12651875](https://doi.org/10.6084/m9.figshare.12651875)
 
-**Van Hoey, Thomas**. 2016. A diachronic analysis of ideophones in Chinese. Summer school in Chinese Digital Humanities. Leiden: Leiden University. 6-9 July 2016.
+**Van Hoey, Thomas**. 2016. A diachronic analysis of ideophones in Chinese. Summer school in Chinese Digital Humanities. Leiden: Leiden University. 6-9 July 2016. [doi:10.6084/m9.figshare.12652508](https://doi.org/10.6084/m9.figshare.12652508)
 
-**Van Hoey, Thomas** & Chiarung Lu. 2016. The distribution of ideophones in Tang poems: A variationist perspective. CLDC [Conference on Language, Discourse, and Cognition] 8. Taipei: National Taiwan University.13-14 May 2016. http://homepage.ntu.edu.tw/~gilntu/cldc/2016/
+**Van Hoey, Thomas** & Chiarung Lu. 2016. The distribution of ideophones in Tang poems: A variationist perspective. CLDC [Conference on Language, Discourse, and Cognition] 8. Taipei: National Taiwan University.13-14 May 2016. [doi:10.6084/m9.figshare.12651824](https://doi.org/10.6084/m9.figshare.12651824)
 
 
 ## Conference presentations (posters)
 
-**Van Hoey, Thomas**. 2018. The blending of bending: Worldbuilding in *Avatar: The Last Airbender* and *The Legend of Korra*. RaAM [Association for Researching and Applying Metaphor] 12. Hong Kong: Hong Kong Polytechnic University. 27-30 June 2018. Funding: MOST-107-2922-I-002-237. http://www.engl.polyu.edu.hk/events/raam/
+**Van Hoey, Thomas**. 2018. The blending of bending: Worldbuilding in *Avatar: The Last Airbender* and *The Legend of Korra*. RaAM [Association for Researching and Applying Metaphor] 12. Hong Kong: Hong Kong Polytechnic University. 27-30 June 2018. Funding: MOST-107-2922-I-002-237. [doi:10.6084/m9.figshare.12652460](https://doi.org/10.6084/m9.figshare.12652460)
 
-**Van Hoey, Thomas**. 2017. The thunder rolls: Iconicity and ideophones in Chinese meteorlogical expressions. CLS-MPI Iconicity Focus Group Workshop: Types of Iconicity in Language Use, Development and Processing. Nijmegen: Max Planck Institute for Psycholinguistics. 6-7 July 2017. Funding: NTU, College of Liberal Arts. http://iconicity.ruhosting.nl
+**Van Hoey, Thomas**. 2017. The thunder rolls: Iconicity and ideophones in Chinese meteorlogical expressions. CLS-MPI Iconicity Focus Group Workshop: Types of Iconicity in Language Use, Development and Processing. Nijmegen: Max Planck Institute for Psycholinguistics. 6-7 July 2017. Funding: NTU, College of Liberal Arts. [doi:10.6084/m9.figshare.12652526](https://doi.org/10.6084/m9.figshare.12652526)
 
-**Van Hoey, Thomas**. 2016. Ideophones in Premodern Chinese: Revisiting Dingemanse’s implicational hierarchy (poster). Mimetics in Japanese and other languages in the world (日本語と世界諸言語のオノマトペ). Tachikawa: NINJAL. 17-18 December 2016. Funding: MOST-105-2922-I-002-682. https://pj.ninjal.ac.jp/mimetics/en/
+**Van Hoey, Thomas**. 2016. Ideophones in Premodern Chinese: Revisiting Dingemanse’s implicational hierarchy (poster). Mimetics in Japanese and other languages in the world (日本語と世界諸言語のオノマトペ). Tachikawa: NINJAL. 17-18 December 2016. Funding: MOST-105-2922-I-002-682. [doi:10.6084/m9.figshare.12652514](https://doi.org/10.6084/m9.figshare.12652514)
 
 ## Departmental lectures
 
@@ -184,7 +185,7 @@ Dingemanse, Mark, Arie Verhagen, Jonas Nölle & **Thomas Van Hoey**. 2019. Integ
 
 ## Tutorials
 
-**Van Hoey, Thomas**. 2019. R bootcamp for lexical semanticists. Introduction to wrangling raw data to formats useable for further analysis using R. Seminar on Language and Culture 語言與文化專題研究.Taipei: National Taiwan University. 5 lectures during November 2019.
+**Van Hoey, Thomas**. 2019. R bootcamp for lexical semanticists. Introduction to wrangling raw data to formats useable for further analysis using R. Seminar on Language and Culture 語言與文化專題研究.Taipei: National Taiwan University. 5 lectures during November 2019. [blogpost](https://www.thomasvanhoey.com/post/rbootcamp-2019/)
 
 ## Broader audiences
 
