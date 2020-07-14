@@ -112,7 +112,7 @@ PhD thesis Linguistics (grade: A+) \hfill 2020 \newline
 MA thesis Linguistics (grade: 17.4/20)\hfill 2014-2015 \newline
 *Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus* 
 
-<!-- >Based on a corpus of Midde Chinese poetry, I identified a set of mimetic words in Middle Chinese. I worked on an analysis of their morphological, phonological, syntactic and semantic properties, against a typological background. -->
+<!-- >Based on a corpus of Middle Chinese poetry, I identified a set of mimetic words in Middle Chinese. I worked on an analysis of their morphological, phonological, syntactic and semantic properties, against a typological background. -->
 
 MA thesis Sinology (grade: 18.6/20)\hfill 2013-2014 \newline
 *The *Guwen yundong 古文运动 *(Classical Prose Movement) during Tang and Song:* \newline
