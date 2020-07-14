@@ -110,7 +110,7 @@ PhD thesis Linguistics (grade: A+) \hfill 2020 \newline
 漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討
 
 MA thesis Linguistics (grade: 17.4/20)\hfill 2014-2015 \newline
-*Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus*
+*Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus* 
 
 <!-- >Based on a corpus of Midde Chinese poetry, I identified a set of mimetic words in Middle Chinese. I worked on an analysis of their morphological, phonological, syntactic and semantic properties, against a typological background. -->
 
